@@ -13,3 +13,21 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+# from local settings
+*.o
+*.lo
+*.la
+\#*\#
+.*.rej
+*.rej
+.*~
+*~
+.#
+.DS_Store
+*.sw[po]
+tags
+*.pyc
+*.pyo
+**/_build/**/*.
+Gemfile.lock
