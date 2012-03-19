@@ -34,3 +34,16 @@ group :test do
   # Pretty printed test output
   gem 'turn', '0.8.2', :require => false
 end
+
+# ---
+
+gem 'rspec'
+gem 'rspec-rails'
+
+gem 'omniauth'
+gem 'omniauth-twitter'
+gem 'twitter'
+
+gem 'haml', '3.2.0.alpha.8'
+
+gem 'twitter-bootstrap-rails', '2.0.2'
